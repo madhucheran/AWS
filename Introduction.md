@@ -10,4 +10,8 @@ Welcome to the **World of Clouds**!
 Every tech company will maintain a server to store their company's data or to store their employees' details or something about the project they were working on So they don't save these things in a hard drive on a PC. For this Database, they will maintain a server for the data. For example, almost all schools and colleges will maintain a server to store their student record for future use so for that server they will use on_premises which is nothing but they will buy the servers from a server manufacturer(Dell Technologies, Hewlett Packard Enterprise (HPE), Cisco Systems) and deploy in their own space because they will maintain it only for database
 
 ># What is Cloud
-Cloud is one of the fast developing  technologies that are changing how we live and work. It refers to on-demand delivery of 
+># Types of cloud
+># What you can do in cloud
+># Etc....
+
+# And many more are waiting for you lets deep dive and see more interesting things...
