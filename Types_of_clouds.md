@@ -1,4 +1,6 @@
->![Master yourself](https://cdn.graciousquotes.com/wp-content/uploads/2020/05/Mastering-others-is-strength.-Mastering-yourself-is-true-power..jpg) <sup> Image Source: [Gracious Quotes](https://graciousquotes.com/short-inspirational-quotes/)</sup>
+>![Master yourself](https://cdn.graciousquotes.com/wp-content/uploads/2020/05/Mastering-others-is-strength.-Mastering-yourself-is-true-power..jpg)
+>
+><sup> Image Source: [Gracious Quotes](https://graciousquotes.com/short-inspirational-quotes/)</sup>
 
 
 ># Types of clouds in cloud computing
