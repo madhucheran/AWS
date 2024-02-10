@@ -1,8 +1,12 @@
->![Master yourself](https://cdn.graciousquotes.com/wp-content/uploads/2020/05/Mastering-others-is-strength.-Mastering-yourself-is-true-power..jpg) <sup> Image Source: [Gracious Quotes](https://graciousquotes.com/short-inspirational-quotes/)</sup>
+>![Master yourself](https://cdn.graciousquotes.com/wp-content/uploads/2020/05/Mastering-others-is-strength.-Mastering-yourself-is-true-power..jpg)
+>
+><sup> Image Source: [Gracious Quotes](https://graciousquotes.com/short-inspirational-quotes/)</sup>
 
 
 ># Types of clouds in cloud computing
->![Types of cloud](https://static.javatpoint.com/cloudpages/images/types-of-cloud.png) <sup>Image Credit: **-->**[www.javatpoint.com](https://www.javatpoint.com/types-of-cloud) </sup>
+>![Types of cloud](https://static.javatpoint.com/cloudpages/images/types-of-cloud.png)
+>
+> <sup>Image Credit: **-->**[www.javatpoint.com](https://www.javatpoint.com/types-of-cloud) </sup>
 
 There are Five types of Clouds.
 * Public 
