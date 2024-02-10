@@ -5,4 +5,15 @@ Amazon Web Service (AWS) provides a collection of cloud services that developers
 * Amazon RDS (Relational Database Services)
 * Amazon S3 (Simple Storage Service)
 * Amazon IAM (Identity and Access Management)
-* Amazon
+* Amazon EBS (Elastic Block Store)
+* Amazon Lambda
+* Amazon EFS (Elastic File System)
+* Amazon CloudFront
+* Amazon SNS (Simple Notification Service)
+* Amazon VPC (Virtual Private Cloud)
+* Amazon Auto-Scaling
+* Amazon SQS (Simple Queue Service)
+* Amazon Elastic Beanstalk
+* Dynamo DB
+* Amazon ElastiCache
+* Amazon Cloud Directory
