@@ -6,7 +6,7 @@ Amazon Web Service (AWS) provides a collection of cloud services that developers
 ![](https://community.aws/_next/image?url=https%3A%2F%2Fassets.community.aws%2Fa%2F2YnihCpaNZkmFVuxyHKWrcxDSMT.png%3FimgSize%3D919x516&w=1920&q=75)
 
 * ## Amazon RDS (Relational Database Services)
-![](https://images.shiksha.com/mediadata/ugcDocuments/images/wordpressImages/2022_05_Relational-Database-Service-RDS.jpg)
+![](https://media7o.sedmiodjel.com/aws-hub/amazon-rds/amazon-rds-logo.svg)
 
 * ## Amazon S3 (Simple Storage Service)
 ![](https://miro.medium.com/v2/resize:fit:975/1*uwM1fTWelE__TRUVapqDOg.png)
