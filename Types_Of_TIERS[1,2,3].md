@@ -1,9 +1,24 @@
+![Time flies](https://quotefancy.com/media/wallpaper/800x450/6442742-Michael-Altshuler-Quote-The-bad-news-is-time-flies-The-good-news.jpg)
+
 Hi everyone and now in this post I will be talking about the "Types of TIERS"
 ***
-># Three types of tiers:
+># Types Of Tiers
+* 1-Tier
+* 2-Tier
+* 3-Tier
+
+># 1-Tier Architecture
+* In this tier , all components are located on a single machine. It is simple to implement but lacks scalability (Monolithic)
+* A one-tier architecture refers to a system design where all components, including data, applications, and user interfaces, are located in a single process or container.
+* This architecture is simple and easy.
+># 2-Tier Architecture
+* In this Tier the Database will be separated from both Business Logic Layer (BLL) and Presentation Layer(PL).
+* It has a clear separation between data access (DB) and business logic.
+* The DB server acts as an independent module that provides services to other modules through APIs.
+># 3- Tire Architecture
 ***
-### 1. The Presentation Tier
-### 2. The Application Tier
+### 1. The Presentation Tier(PL)
+### 2. The Application Tier or Business Logic layer(BLL)
 ### 3. The Data Access Tier
 
 ># The Presentation Tier
@@ -31,3 +46,12 @@ Hi everyone and now in this post I will be talking about the "Types of TIERS"
 ***
 * Horizontal scalability  - you can add more resources to handle a larger number of requests by adding servers/instances to a system 
 * If somethig is changed in one tire, another tires will not get affected
+* Reduces dependency among different components
+* Improves the performance of the application by reducing network latency
+
+># Disadvantage
+***
+* More complex to implement compared to 1-tier architecture
+* Increases cost due to multiple servers/instances needed for each tier
+* Debugging becomes more difficult if there are issues at any level
+[Back To Top](#table-of-contents)
