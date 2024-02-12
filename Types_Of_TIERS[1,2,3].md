@@ -54,4 +54,4 @@ Hi everyone and now in this post I will be talking about the "Types of TIERS"
 * More complex to implement compared to 1-tier architecture
 * Increases cost due to multiple servers/instances needed for each tier
 * Debugging becomes more difficult if there are issues at any level
-[Back To Top](#table-of-contents)
+[Back To Top](#Types)
